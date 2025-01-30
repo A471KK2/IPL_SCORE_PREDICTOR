@@ -19,7 +19,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ipl-score-predictor.git
+   git clone https://github.com/A471KK2/ipl-score-predictor.git
    cd ipl-score-predictor
    ```
 2. Open the Jupyter Notebook:
